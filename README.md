@@ -2,7 +2,6 @@
 
 An AI-based system for detecting phishing URLs and websites using URL, domain, HTML/DOM, reputation, and behavioral signals.
 
-
 ---
 
 ## Overview
